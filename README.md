@@ -6,5 +6,5 @@ Proposta foi desenvolver um aplicativo onde o cliente do barbeiro realize as tar
 possuindo acesso à toda agenda do estabelecimento e selecionando os dias e horários do seu desejo. 
 Autores : Othon Medeiros
 / Lucas dos Santos Xavier
-/ Othon Medeiros
+/ Gabrielle Zanellato Santos
 / Rodrigo Vicente da Silva
