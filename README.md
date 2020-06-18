@@ -9,4 +9,4 @@
 > - Gabrielle Zanellato Santos
 > - Rodrigo Vicente da Silva
 
-![](https://xd.adobe.com/view/69ddb039-7408-4805-6dbc-9b131b5e6753-1fec/)
+![](https://github.com/othonsm/Lord_Barber/blob/master/publicidade.jpg)
